@@ -90,7 +90,7 @@ Após esta modificação do projeto, teremos o circuito a seguir, o qual deverá
 
  ![Alt text](https://github.com/salum/3-band-equalizer/blob/master/blog-files/figura_projeto_completo.png?raw=true)
 
-Para montarmos o projeto na PCB, utilizamos o software EAGLE - freeware e importando algumas bibliotecas externas do Monowave.
+Para montarmos o projeto na PCB, utilizamos o software EAGLE - freeware e importando algumas bibliotecas externas do [Monowave](http://xdissent.github.io/monowave-eagle/libraries/index.html).
 
 Após montarmos o circuito e posicionarmos as peças na placa, obtivemos o seguinte esquemático.
 
